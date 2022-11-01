@@ -3,7 +3,7 @@
 **/
 
 #app-mount .base-2jDfDU::before {
-    content: "Your version of MaterialDesign is outdated. Please download the latest version from source";
+    content: "Your version of 'Discord. But Better.' is outdated. Please disable your theme, and wait for an update.";
     display: var(--version0_9_9, block);
     background-color: var(--brand-experiment-60a);
     color: #fff;
@@ -26,7 +26,7 @@
 }
 
 [class^="socialLinks-"] + [class^="info-"] > span:nth-last-child(1)::after {
-    content: var(--skin-name) " Skin by " var(--skin-author);
+    content: var(--skin-name) " Skin by hostilecatholic";
     position: relative;
     top: 0;
     display: block;
